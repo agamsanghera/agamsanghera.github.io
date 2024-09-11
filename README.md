@@ -1,2 +1,2 @@
 # agamsanghera.github.io
-Websitefor agamsanghera
+Website for agamsanghera
